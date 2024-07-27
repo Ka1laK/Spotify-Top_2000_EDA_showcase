@@ -6,7 +6,6 @@ Explora una colección exhaustiva de las 2000 mejores canciones en Spotify a tra
 
 ![Vista general de las visualizaciones](https://github.com/user-attachments/assets/5a9e9bd0-df33-44a9-988f-d87c3227e7bf)
 
-## Visualizaciones Incluidas:
 
 ### Gráfico de Barras - Bailabilidad por Artista
 Explora qué artistas destacan en términos de canciones bailables.
