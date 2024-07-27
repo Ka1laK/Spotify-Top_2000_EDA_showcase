@@ -25,4 +25,4 @@ Observa cómo ha cambiado la duración media de las canciones a lo largo de los 
 
 ### Diagrama de Cajas - Distribución de la Bailabilidad
 Comprende cómo se distribuye la bailabilidad en relación con otros indicadores musicales.
-![Distribución de la Bailabilidad](![image](https://github.com/user-attachments/assets/563a635e-7fc1-4a42-9c3e-59b735283545)
+![Distribución de la Bailabilidad](https://github.com/user-attachments/assets/563a635e-7fc1-4a42-9c3e-59b735283545)
